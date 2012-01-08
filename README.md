@@ -1,4 +1,11 @@
+Personal fork of vim-rspec
+--------------------------
+
+I've added rspec snippets as updated from
+[poorlilrichboy](https://github.com/poorlilrichboy/snipmate-snippets/blob/master/snippets/ruby-rspec.snippets) 
+
 vim-rspec
+---------
 
 Beautiful, colorized RSpec tests in Vim with direct access to
 the line where the error occurred.
