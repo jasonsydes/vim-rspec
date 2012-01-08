@@ -4,13 +4,13 @@ Personal fork of vim-rspec
 I've added rspec snippets as updated from
 [poorlilrichboy](https://github.com/poorlilrichboy/snipmate-snippets/blob/master/snippets/ruby-rspec.snippets) 
 
-I also added the following to get it to work with the [garbas fork of
+I also added the following to my .vimrc to get it to work with the [garbas fork of
 snipMate](https://github.com/garbas/vim-snipmate)
 
 ```vim
     let g:snipMate = {}
     let g:snipMate.scope_aliases = {}
-    let g:snipMate.scope_aliases['ruby'] = 'ruby,ruby-rails'
+    let g:snipMate.scope_aliases['ruby'] = 'ruby,ruby-rails,ruby-rspec'
 ```
 
 vim-rspec
